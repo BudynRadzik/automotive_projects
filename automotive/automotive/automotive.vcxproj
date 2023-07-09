@@ -130,6 +130,7 @@
     <ClCompile Include="automotive.cpp" />
     <ClCompile Include="Bike.cpp" />
     <ClCompile Include="Car.cpp" />
+    <ClCompile Include="Dealer.cpp" />
     <ClCompile Include="Menu.cpp" />
     <ClCompile Include="Truck.cpp" />
     <ClCompile Include="Vehicle.cpp" />
@@ -137,6 +138,7 @@
   <ItemGroup>
     <ClInclude Include="Bike.h" />
     <ClInclude Include="Car.h" />
+    <ClInclude Include="Dealer.h" />
     <ClInclude Include="Menu.h" />
     <ClInclude Include="Truck.h" />
     <ClInclude Include="Vehicle.h" />
