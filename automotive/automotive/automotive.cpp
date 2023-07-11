@@ -10,7 +10,7 @@
 
 int main()
 {
-	Menu m1;
-	m1.display_menu();
+	Menu* m1 = new Menu();
+	m1->display_menu();
 }
 

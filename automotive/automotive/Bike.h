@@ -2,6 +2,7 @@
 #include "Vehicle.h"
 class Bike : public Vehicle
 {
-
+	virtual void display() override;
+	
 };
 

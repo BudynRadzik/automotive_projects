@@ -34,7 +34,7 @@ void Menu::display_menu()
 		{
 			cout << "Incorrect choice try again";
 		}
-	} while (number != 'q' && number != 'Q' && number =='1' && number=='2' && number=='3');
+	} while (number != 'q' && number != 'Q' && number !='1' && number!='2' && number!='3');
 	
 };
 
